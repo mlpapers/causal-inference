@@ -28,3 +28,11 @@
 - **ANM** Additive Noise Models
   - [Causal discovery of linear acyclic models with arbitrary distributions](https://arxiv.org/pdf/1206.3260.pdf) (2008) *Patrik O. Hoyer, Aapo Hyvarinen, Richard Scheines, Peter Spirtes, Joseph Ramsey, Gustavo Lacerda, Shohei Shimizu*
   - [Nonlinear causal discovery with additive noise models](http://papers.nips.cc/paper/3548-nonlinear-causal-discovery-with-additive-noise-models.pdf) (2009) *Patrik O. Hoyer, Dominik Janzing, Joris M. Mooij, Jonas Peters, Bernhard Schölkop*
+- **Granger causality**
+  - [Investigating Causal Relations by Econometric Models and Cross-spectral Methods](https://web.sonoma.edu/users/c/cuellar/econ411/Granger.pdf) (1969) *C. W. J. Granger*
+  - [Aalyzing multiple nonlinear time series with extended Granger causality](https://www.dcs.warwick.ac.uk/~feng/papers/Analyzing%20multiple%20nonlinear%20time%20series.pdf) (2004) *Yonghong Chena, Govindan Rangarajanc, Jianfeng Fenge, Mingzhou Ding*
+  - [Large-scale nonlinear Granger causality:  A data-driven, multivariateapproach to recovering directed networks from short time-series data](https://arxiv.org/pdf/2009.04681.pdf) (2020) *Axel Wismuller, Adora M. DSouza, Anas Z. Abidin*
+
+### Software
+- Python
+  - tigramite ([Homepage](https://jakobrunge.github.io/tigramite/))
