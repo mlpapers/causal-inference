@@ -1,3 +1,11 @@
+---
+title: "Causal Inference"
+aliases: ["Causality", "Causal reasoning"]
+tags:
+  - causal
+  - inference
+  - graphical-models
+---
 # Causal inference
 
 - **Overview**
@@ -33,6 +41,11 @@
   - [Aalyzing multiple nonlinear time series with extended Granger causality](https://www.dcs.warwick.ac.uk/~feng/papers/Analyzing%20multiple%20nonlinear%20time%20series.pdf) (2004) *Yonghong Chena, Govindan Rangarajanc, Jianfeng Fenge, Mingzhou Ding*
   - [Large-scale nonlinear Granger causality:  A data-driven, multivariateapproach to recovering directed networks from short time-series data](https://arxiv.org/pdf/2009.04681.pdf) (2020) *Axel Wismuller, Adora M. DSouza, Anas Z. Abidin*
 
-### Software
+## Software
 - Python
   - tigramite ([Homepage](https://jakobrunge.github.io/tigramite/))
+
+## Related Topics
+- [Bayesian Networks](https://mlpapers.org/bayesian-nets/)
+- [Bayesian Inference](https://mlpapers.org/bayesian-inference/)
+- [Models](https://mlpapers.org/models/)
