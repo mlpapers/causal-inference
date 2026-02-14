@@ -1,11 +1,3 @@
----
-title: "Causal Inference"
-aliases: ["Causality", "Causal reasoning"]
-tags:
-  - causal
-  - inference
-  - graphical-models
----
 # Causal inference
 
 - **Overview**
